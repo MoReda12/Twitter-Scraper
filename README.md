@@ -12,13 +12,10 @@ A powerful and user-friendly Twitter scraping application with a modern GUI inte
   - Media content
 - **Advanced Features**:
   - Sentiment analysis
-  - Proxy support
-  - Multiple account management
   - Analytics dashboard
   - Export capabilities
 - **Security**:
   - Secure credential storage
-  - Proxy support for anonymity
   - Rate limiting protection
 
 ## Requirements
@@ -47,7 +44,7 @@ pip install -r requirements.txt
 
 3. Run the application:
 ```bash
-python twitter_scraper_improved.py
+python scraper.py
 ```
 
 ## Usage
