@@ -132,3 +132,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Disclaimer
 
 This tool is for educational purposes only. Use it responsibly and in accordance with Twitter's terms of service. The developers are not responsible for any misuse or violations of Twitter's policies. 
+
+
+contact:
+- Email: instamoreda13@gmail.com
+- telegram: justmo69
