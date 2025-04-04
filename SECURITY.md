@@ -165,8 +165,8 @@ This document outlines the security measures, best practices, and guidelines for
 ## Contact
 
 For security concerns or vulnerabilities, please contact:
-- Email: [Your Security Contact]
-- Twitter: [Your Twitter Handle]
+- Email: instamoreda13@gmail.com
+- telegram: justmo69
 
 ## Updates
 
